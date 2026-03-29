@@ -49,20 +49,12 @@ Back-End Developer - Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=caioccouto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioccouto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=caioccouto&show_icons=true&theme=dracula&hide_border=true"
   />
 
-</p>
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioccouto&layout=compact&theme=dracula&hide_border=true"
+  />
