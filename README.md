@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Caio 👋</h1>
 
-<!--
-**caioccouto/caioccouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Back-End Developer - Estudante de Análise e Desenvolvimento de Sistemas na FIAP
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Linguagens e Tecnologias
+
+| Linguagem | Uso principal |
+|-----------|--------------|
+| ☕ Java    | Back-end, POO |
+| 🐍 Python  | Scripts, automação, dados |
+| 🗄 SQL     | Banco de dados, queries |
+| 🌐 HTML   | Estrutura web |
+| 🎨 CSS    | Estilização web |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=caioccouto&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioccouto&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+---
+
+## 📈 Gráfico de Contribuições
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=caioccouto&theme=minimal&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Troféus
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=caioccouto&theme=flat&no-frame=true&row=1&column=5)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=caioccouto&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
+⭐ Obrigado por visitar meu perfil!
