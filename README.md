@@ -1,8 +1,6 @@
-<h1 align="center">Olá, eu sou o Caio 👋</h1>
+Olá, eu sou o Caio 👋
 
-<p align="center">
-  Back-End Developer - Estudante de Análise e Desenvolvimento de Sistemas na FIAP
-</p>
+Back-End Developer - Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 
 ---
 ### 🤖 Linguagens e Tecnologias
@@ -46,6 +44,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<br/>
+<br/>
 
 ## 📊 Estatísticas
 
